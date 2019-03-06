@@ -24,7 +24,7 @@ HOW TO USE
 1. Copy list of ips/names from blue cat
 
 This script will accept lines in the form:
-0.0.0.0/24 [Server Name]	
+0.0.0.0/24 [Server Name]
 0.0.0.0/24 [Server Name]
 0.0.0.0/24 [Server Name]
 ...
